@@ -10,7 +10,6 @@ public class CubeSpawner : MonoBehaviour
     private float radius;
 
     [SerializeField] private int cubeCount;
-    [SerializeField] private float delayBetweenSpawns;
     private float angleStep;
 
     void Awake()
