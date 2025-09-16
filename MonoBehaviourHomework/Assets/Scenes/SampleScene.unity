@@ -411,7 +411,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotateSpeed: 180
-  rotationRadius: 2
+  rotationRadius: 6
 --- !u!114 &370537125
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -424,8 +424,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edbfee3dc7f18f74691a5045fc674eef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedVector: {x: 1, y: 0, z: 1}
-  speedMultiplier: 4
+  speedVector: {x: 0, y: 0, z: 2}
+  speedMultiplier: 3
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -804,7 +804,7 @@ MonoBehaviour:
   cubeRotator: {fileID: 370537124}
   center: {fileID: 370537123}
   cubeToCopy: {fileID: 5804576464202156275, guid: 1d473e1196efd8243a8ece435c0c8ca3, type: 3}
-  cubeCount: 12
+  cubeCount: 16
 --- !u!4 &2124511440
 Transform:
   m_ObjectHideFlags: 0
