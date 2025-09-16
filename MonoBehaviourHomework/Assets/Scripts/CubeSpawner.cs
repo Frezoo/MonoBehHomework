@@ -12,6 +12,7 @@ public class CubeSpawner : MonoBehaviour
     [SerializeField] private int cubeCount;
     private float angleStep;
 
+    //Здравствуйте, коммит был сделан 16.09 в 20:20,просьба не взаимствовать код
     void Awake()
     {
         CheckNulls();
