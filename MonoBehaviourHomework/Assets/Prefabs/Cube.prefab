@@ -121,6 +121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20ca3c2168b1d1348ac63801b7e85afe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  meshRenderer: {fileID: 2927013886008357533}
+  materialToWork: {fileID: 2100000, guid: f594340a0883528429e28358cb2b645e, type: 2}
   transitionDuration: 0.2
   delayBetweenTransitions: 0
