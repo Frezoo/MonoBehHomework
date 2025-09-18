@@ -878,7 +878,7 @@ MonoBehaviour:
   cubeLayout: {fileID: 2124511442}
   center: {fileID: 370537123}
   cubeToCopy: {fileID: 5804576464202156275, guid: 1d473e1196efd8243a8ece435c0c8ca3, type: 3}
-  cubeCount: 8
+  cubeCount: 16
 --- !u!4 &2124511440
 Transform:
   m_ObjectHideFlags: 0
